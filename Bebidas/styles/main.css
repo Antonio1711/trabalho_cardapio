@@ -13,8 +13,8 @@ header{
     height: 100px;
 }
 nav {
-    margin-top: 30px;
-    margin-right: 50px;
+    margin-top: 15px;
+    margin-right: 90px;
 }
 a {
     text-decoration: none;
@@ -51,6 +51,7 @@ section{
     width: 1300px;
     height: 400px;
 }
+
 div {
     border-radius: 10%;
     margin: 0%;
